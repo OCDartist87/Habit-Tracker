@@ -102,7 +102,7 @@ table.dates td {
 }
 
 input[type=checkbox] {
-	/*display:none;*/
+	display:none;
 }
 
 input[type=checkbox] + label::before {
